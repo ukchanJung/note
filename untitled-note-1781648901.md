@@ -3,4 +3,4 @@ type: Note
 ---
 #
 
-SfM, Reconstruction, 삼각측량
+SfM, Reconstruction, Photogrammetry
