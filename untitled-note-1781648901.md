@@ -3,4 +3,4 @@ type: Note
 ---
 #
 
-SfM, Reconstruction, Photogrammetry
+SfM, Reconstruction, Photogrammetry, Triangulation
